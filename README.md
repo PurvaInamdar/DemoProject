@@ -1,4 +1,2 @@
-# DemoProject
-This is my first Git Repository.
-<br>
-Author - Purva Inamdar
+my_string = "Hello, World!"
+print(my_string)
